@@ -12,7 +12,7 @@ Making it simple for any business leader to better their workplace knowledge, co
 Helping founders and business owners launch better websites and apps with advanced design and data science
 
 ## Guest Posts
-[10 Tips to Stabilize Employee Experience During the Pandemic](https://talentculture.com/stabilize-employee-experience/)
+* [10 Tips to Stabilize Employee Experience During the Pandemic](https://talentculture.com/stabilize-employee-experience/)
 
 ## Press
 * [Ona could help you get better at dating with an online dating coach, therapist or matchmaker – TechCrunch](https://techcrunch.com/2017/02/07/ona-launch/)
@@ -21,7 +21,8 @@ Helping founders and business owners launch better websites and apps with advanc
 * [B&H Photo Gets Real About Virtual Reality - Yahoo Finance](https://finance.yahoo.com/news/b-h-photo-gets-real-090700490.html)
 
 ## Connect
-[Twitter](https://twitter.com/mjzuppe)
-[Medium](https://medium.com/@mjzuppe)
-[LinkedIn](https://www.linkedin.com/in/mark-zuppe)
-[Email](mailto:markzuppe[switch to @ symbol]outlook.com)
+* [Twitter](https://twitter.com/mjzuppe)
+* [Medium](https://medium.com/@mjzuppe)
+* [LinkedIn](https://www.linkedin.com/in/mark-zuppe)
+* [Email](mailto:markzuppe=at=outlook.com)
+
