@@ -1,7 +1,7 @@
 # Mark Zuppe
 ## Future of Work / SaaS 
 
-I'm an ex-enterprise business director now founder and consultant who obsesses about the dignity of work and its intersection with technology. I find the most joy in managing creatives and engineers by bridging out-of-the-box thinking with business objectives. I know because I'm a creator myself as a full stack developer, jaded music producer, and homebrewer.
+I'm an ex-enterprise business director now founder and consultant who obsesses about the dignity of work and its intersection with technology. I find the most joy in managing creatives and engineers by bridging out-of-the-box thinking with business objectives. I know because I'm a creator myself as a full stack developer, jaded music producer, and homebrewer. 
 
 ## What I do
 
@@ -9,7 +9,7 @@ I'm an ex-enterprise business director now founder and consultant who obsesses a
 Making it simple for any business leader to better their workplace knowledge, communications, and culture.
 
 ### [Aleia](https://www.aleia.io/) (partner)
-Helping founders and business owners launch better websites and apps with advanced design and data science
+Walk with non-technical business leaders and founders to help launch wounderful apps, products, and websites.
 
 ## Guest Posts
 * [10 Tips to Stabilize Employee Experience During the Pandemic](https://talentculture.com/stabilize-employee-experience/)
