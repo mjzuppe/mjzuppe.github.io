@@ -15,10 +15,10 @@ Helping founders and business owners launch better websites and apps with advanc
 [10 Tips to Stabilize Employee Experience During the Pandemic](https://talentculture.com/stabilize-employee-experience/)
 
 ## Press
-[Ona could help you get better at dating with an online dating coach, therapist or matchmaker – TechCrunch](https://techcrunch.com/2017/02/07/ona-launch/)
-[Ona wants to make your dating life better, but it's not a dating app - Bustle](https://www.bustle.com/p/new-app-ona-wants-to-make-your-dating-life-better-but-its-not-a-dating-app-36054)
-[Dating app helps single self growth - A-plus](https://articles.aplus.com/a/ona-dating-app-helps-singles-self-growth)
-[B&H Photo Gets Real About Virtual Reality - Yahoo Finance](https://finance.yahoo.com/news/b-h-photo-gets-real-090700490.html)
+* [Ona could help you get better at dating with an online dating coach, therapist or matchmaker – TechCrunch](https://techcrunch.com/2017/02/07/ona-launch/)
+* [Ona wants to make your dating life better, but it's not a dating app - Bustle](https://www.bustle.com/p/new-app-ona-wants-to-make-your-dating-life-better-but-its-not-a-dating-app-36054)
+* [Dating app helps single self growth - A-plus](https://articles.aplus.com/a/ona-dating-app-helps-singles-self-growth)
+* [B&H Photo Gets Real About Virtual Reality - Yahoo Finance](https://finance.yahoo.com/news/b-h-photo-gets-real-090700490.html)
 
 ## Connect
 [Twitter](https://twitter.com/mjzuppe)
