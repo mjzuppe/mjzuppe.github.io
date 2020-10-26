@@ -4,6 +4,7 @@
 I'm an ex-enterprise business director now founder and consultant who obsesses about the dignity of work and its intersection with technology. I find the most joy in managing creatives and engineers by bridging out-of-the-box thinking with business objectives. I know because I'm a creator myself as a full stack developer, jaded music producer, and homebrewer. 
 
 ## What I do
+Bootstrapped, lean, and impactful business and product development
 
 ### [Yallhands](https://yallhands.com) (founder)
 Making it simple for any business leader to better their workplace knowledge, communications, and culture.
