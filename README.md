@@ -5,10 +5,10 @@ I'm an ex-enterprise business director now founder and consultant who obsesses a
 
 ## What I do
 
-[### Yallhands](https://yallhands.com) (founder)
+### [Yallhands](https://yallhands.com) (founder)
 Making it simple for any business leader to better their workplace knowledge, communications, and culture.
 
-[### Aleia](https://www.aleia.io/) (partner)
+### [Aleia](https://www.aleia.io/) (partner)
 Helping founders and business owners launch better websites and apps with advanced design and data science
 
 ## Guest Posts
