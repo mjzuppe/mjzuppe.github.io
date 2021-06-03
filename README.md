@@ -1,7 +1,7 @@
 # Mark Zuppe
-## Future of Work / SaaS 
+## SaaS/e-commerce/B2B 
 
-I'm an ex-enterprise business director now founder and consultant who obsesses about the dignity of work and its intersection with technology. I find the most joy in managing creatives and engineers by bridging out-of-the-box thinking with business objectives. I know because I'm a creator myself as a full stack developer, jaded music producer, and homebrewer. 
+I'm an ex-enterprise business director turned founder and consultant. I find the most joy in managing creatives and engineers by bridging out-of-the-box thinking with business objectives. I know because I'm a creator myself as a full stack developer, jaded music producer, and homebrewer. 
 
 ## What I do
 Bootstrapped, lean, and impactful business and product development
