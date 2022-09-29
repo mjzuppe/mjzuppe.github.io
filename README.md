@@ -1,15 +1,18 @@
 # Mark Zuppe
-## Leadership and Software Developer for SaaS/Content Marketing/e-commerce
+## Leadership and Product for Web3/SaaS/e-Commerce
 ### Boston / NYC
 
 I'm an ex-enterprise content director turned founder and consultant. I'm a generalist who can double as a CMO or a CTO, making sense when you discover that I find the most joy in [managing creatives](https://yallhands.com/blog/crushing-the-myth-that-creatives-require-delicate-management) and engineers by bridging rapid iteration and validation processes with business objectives. Translating concepts and initiatives are easy for me being a creator as a **full stack developer**, multi-instrumentalist and jaded music producer, and homebrewer. 
 
 ## What I do
-Lean, and impactful business and product development.
+Lean, and impactful business and product development for web3 and web2.
 
-Specializing in content strategy, SEO, CMS, web applications, data architecture, software product lifecycle, and microservices.
+Specializing in blockchain, content strategy, SEO, CMS, web applications, technology stacks, data architecture, software product lifecycle, and microservices.
 
 ## What have I worked on
+
+### [Supermassiv](https://supermassiv.com) (co-founder CTO)
+Next generation music commerce build on the blockchain.
 
 ### [Yallhands](https://yallhands.com) (founder)
 Making it simple for any business leader to better their workplace knowledge, communications, and culture.
@@ -30,10 +33,13 @@ Walk with non-technical business leaders and founders to help launch wonderful a
 * [B&H Photo Gets Real About Virtual Reality - Yahoo Finance](https://finance.yahoo.com/news/b-h-photo-gets-real-090700490.html)
 
 ## Dev Experience
-### Iniatives Examples
+### Web3
+Solana blockchain developent, contributer to the Metaplex JS library, NFT project deployments, smart contract audits, advanced token-gated media
+
+### General Iniatives Examples
 #### Native analytics development, customized CMS, UI, conversational chatbots, development of automation workflows, platform SEO optimizations, building a scalable API, managing TimeZones (moment), authentication with JWT, domain/certificate management, serverless and compute functions, caching and load balancing, Stripe integrations, email automations and campaign sequencing, designing and managing microservices architecture
 ### Technology salad
-#### *Languages*: Javascript, Python.Typescript, Go
+#### *Languages*: Javascript/TS, Python, Rust, Go
 #### *Front-End*: React, Vue, Gatsby, Next JS, Webpack, Babel, MobX, Tailwind, SaSS, SCSS
 #### *Back-End*: Node JS, Loopback, Flask, Express, GraphQL, Docker,
 #### *DBs*: SQL, postgres, NoSQL, MongoDB, DynamoDB, AWS RDS
