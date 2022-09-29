@@ -12,7 +12,7 @@ Specializing in blockchain, content strategy, SEO, CMS, web applications, techno
 ## What have I worked on
 
 ### [Supermassiv](https://supermassiv.com) (co-founder CTO)
-Next generation music commerce build on the blockchain.
+Next generation music commerce built on the blockchain.
 
 ### [Yallhands](https://yallhands.com) (founder)
 Making it simple for any business leader to better their workplace knowledge, communications, and culture.
