@@ -7,11 +7,11 @@ I'm an ex-enterprise content director turned 3x startup technical founder and co
 ## What I do
 Maximize impact for product development and engineering.
 
-Specializing in the Solana blockchain, content, SEO, data architecture, and e-commerce
+Specializing in Solana blockchain devlopment, content, SEO, data architecture, and e-commerce
 
 ## What have I worked on
 
-### [Supermassiv](https://supermassiv.com) (co-founder CTO )*Next generation music commerce built on the blockchain.*
+### [Supermassiv](https://supermassiv.com) (co-founder CTO )*Next generation music commerce built on Solana.*
 
 ### [Yallhands](https://yallhands.com) (founder) *Making it simple for any business leader to better their workplace knowledge, communications, and culture.*
 
