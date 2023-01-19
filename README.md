@@ -1,9 +1,9 @@
 # Mark Zuppe
-I'm an ex-enterprise content director turned 3x startup technical founder and consultant. I find the most joy in [managing creatives](https://yallhands.com/blog/crushing-the-myth-that-creatives-require-delicate-management) and engineers by bridging rapid iteration and validation processes with business objectives. 
+Ex-enterprise content director turned 3x startup technical founder and consultant who finds the most joy in [managing creatives](https://yallhands.com/blog/crushing-the-myth-that-creatives-require-delicate-management) and engineers by bridging rapid iteration and validation processes with business objectives. 
 
 ## What I do
 Maximize impact for product development and engineering.
-Specializing in Solana blockchain devlopment, content, SEO, data architecture, and e-commerce
+Specializing in **Solana** blockchain devlopment, content, SEO, data architecture, and e-commerce
 
 ## What have I worked on
 
