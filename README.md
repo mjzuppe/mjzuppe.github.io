@@ -6,7 +6,6 @@ I'm an ex-enterprise content director turned 3x startup technical founder and co
 
 ## What I do
 Maximize impact for product development and engineering.
-
 Specializing in Solana blockchain devlopment, content, SEO, data architecture, and e-commerce
 
 ## What have I worked on
