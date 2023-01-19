@@ -7,7 +7,7 @@ Specializing in **Solana** blockchain devlopment, content, SEO, data architectur
 
 ## What have I worked on
 
-### [Supermassiv](https://supermassiv.com) (co-founder CTO )*Next generation music commerce built on Solana.*
+### [Supermassiv](https://supermassiv.com) (co-founder CTO ) *Next generation music commerce built on Solana.*
 
 ### [Yallhands](https://yallhands.com) (founder) *Making it simple for any business leader to better their workplace knowledge, communications, and culture.*
 
